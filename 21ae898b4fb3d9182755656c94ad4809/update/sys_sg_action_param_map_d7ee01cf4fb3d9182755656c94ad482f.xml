@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Work Order Task)">93eecd8f4fb3d9182755656c94ad48f8</button>
+        <item_parameter display_value="Work Order Task assigned_to">17eecd8f4fb3d9182755656c94ad48f6</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>magnus.schlamovitz</sys_created_by>
+        <sys_created_on>2022-12-20 15:16:18</sys_created_on>
+        <sys_id>d7ee01cf4fb3d9182755656c94ad482f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>17eecd8f4fb3d9182755656c94ad48f6</sys_name>
+        <sys_package display_value="KEID FSM" source="x_snc_keid_fsm">21ae898b4fb3d9182755656c94ad4809</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KEID FSM">21ae898b4fb3d9182755656c94ad4809</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d7ee01cf4fb3d9182755656c94ad482f</sys_update_name>
+        <sys_updated_by>magnus.schlamovitz</sys_updated_by>
+        <sys_updated_on>2022-12-20 15:16:18</sys_updated_on>
+        <ui_parameter display_value="Assigned to">dbeecd8f4fb3d9182755656c94ad48f9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
